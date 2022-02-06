@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get ready. Once you start you have to finish. You chose this, you want this. Every time you fail to follow an instruction or take too long slap your balls as hard as you can. I want you to fail. I want to break you...');
+      return speak('Get ready. Once you start you have to finish. You chose this, you want this. Every time you fail to follow an instruction straight away, slap your balls as hard as you can. I want you to fail. I want to break you...');
     }
   },
   taskDesc: function(task) {
