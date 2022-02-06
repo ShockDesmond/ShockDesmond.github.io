@@ -396,7 +396,7 @@ Game = React.createClass({
   renderFinished: function() {
     return div({
       className: 'jumbotron'
-    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! Thank me for letting you fuck you throat and gag on this cock. ")), button({
+    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! Now thank me for letting you fuck your throat and gag on this cock. ")), button({
       className: "btn btn-success btn-lg ",
       style: {
         marginBottom: 20
@@ -533,12 +533,17 @@ Tasks = [
     max: 25,
     diff: 1
   }, {
+    desc: 'Smear all that drool on your face.',
+    min: 10,
+    max: 15,
+    diff: 1
+  }, {
     desc: 'Wipe the spit on your face.',
     min: 10,
     max: 15,
     diff: 1
   }, {
-    desc: 'Beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
+    desc: 'Beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Louder.',
     min: 10,
     max: 18,
     diff: 1
