@@ -518,7 +518,7 @@ Tasks = [
     max: 25, 
     diff: 1
   }, {
-    desc: 'suck it',
+    desc: 'Suck it',
     min: 5,
     max: 20,
     diff: 1
@@ -608,12 +608,12 @@ Tasks = [
     max: 15,
     diff: 2
   }, {
-    desc: 'Hold that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
+    desc: 'Keep that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
     min: 10,
     max: 15,
     diff: 2
   }, {
-    desc: 'Hold until you gag. Release. Repeat.',
+    desc: 'Hold it in your throat until you gag. Release. Repeat.',
     min: 20,
     max: 60,
     diff: 2
