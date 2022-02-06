@@ -396,7 +396,7 @@ Game = React.createClass({
   renderFinished: function() {
     return div({
       className: 'jumbotron'
-    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training!")), button({
+    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! Thank me for letting you fuck you throat and gag on this cock. ")), button({
       className: "btn btn-success btn-lg ",
       style: {
         marginBottom: 20
@@ -492,6 +492,21 @@ Tasks = [
     min: 10,
     max: 15,
     diff: 0
+  },{
+    desc: 'slobber all up and down that cock' ,
+    min: 10,
+    max: 25,
+    diff: 0
+  }, {
+    desc: 'pleasure it with your tongue',
+    min: 10,
+    max: 15,
+    diff: 0
+  },{
+    desc: 'lick it',
+    min: 5,
+    max: 15,
+    diff: 0
   }, {
     desc: 'hold it just in front of your throat on the edge of gagging. ',
     min: 15,
@@ -503,6 +518,11 @@ Tasks = [
     max: 25, 
     diff: 1
   }, {
+    desc: 'suck it',
+    min: 5,
+    max: 20,
+    diff: 1
+  },{
     desc: 'suck it like you mean it. ',
     min: 10,
     max: 20,
@@ -513,17 +533,27 @@ Tasks = [
     max: 25,
     diff: 1
   }, {
-    desc: 'wipe the spit on your face. I have never seen such a pathetic effort. We will need to do something about that soon',
+    desc: 'wipe the spit on your face.',
     min: 10,
     max: 15,
     diff: 1
   }, {
+    desc: 'smack your face with that cock',
+    min: 10,
+    max: 20,
+    diff: 1
+  },{
     desc: 'suck it. Show what a good blowjob you can give. ',
     min: 10,
     max: 20,
     diff: 1
   },{
-    desc: 'deepthroat hard and fast. All the way in, and all the way out.',
+    desc: 'quickly fuck your open mouth ',
+    min: 10,
+    max: 15,
+    diff: 1
+  },{
+    desc: 'deepthroat hard and fast. All the way in. all the way out.',
     min: 10,
     max: 30,
     diff: 3
@@ -533,6 +563,21 @@ Tasks = [
     max: 30,
     diff: 2
   }, {
+    desc: 'deepthroat it nice and slow',
+    min: 10,
+    max: 30,
+    diff: 2
+  },  {
+    desc: 'shove it down your throat and hold.',
+    min: 10,
+    max: 30,
+    diff: 2
+  },  {
+    desc: 'deepthroat it.',
+    min: 5,
+    max: 20,
+    diff: 2
+  },  {
     desc: 'Fuck your mouth fast',
     min: 10,
     max: 20,
@@ -541,6 +586,11 @@ Tasks = [
     desc: 'hold it in your throat.',
     min: 5,
     max: 20,
+    diff: 2
+  },  {
+    desc: 'deepthroat while you slap your balls. ',
+    min: 10,
+    max: 15,
     diff: 2
   }, {
     desc: 'beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
@@ -562,16 +612,26 @@ Tasks = [
     min: 10,
     max: 25,
     diff: 3
-  },{
-    desc: 'take it deep and fuck your throat.',
-    min: 20,
+  }, {
+    desc: 'go deep then fuck your throat with short strokes. Keep it in your throat ',
+    min: 10,
     max: 30,
-    diff: 2
+    diff: 3
+  }, {
+    desc: 'fuck that throat. Hurry up.',
+    min: 10,
+    max: 30,
+    diff: 3
   },{
     desc: 'all the way in, all the way out. Faster. ' ,
     min: 20,
     max: 30,
     diff: 3
+  },  {
+    desc: 'hold until you gag. Release. Repeat .',
+    min: 20,
+    max: 60,
+    diff: 2
   }, {
     desc: ' keep it in your throat until I say otherwise. I do not care how much you gag. I like it', 
     min: 25,
@@ -583,7 +643,7 @@ Tasks = [
     max: 30,
     diff: 3
   },{
-    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. I said harder. Speed up as well.', 
+    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. Speed up as well.', 
 
 min: 20,
     max: 30,
