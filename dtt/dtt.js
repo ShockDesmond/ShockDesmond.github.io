@@ -488,7 +488,7 @@ Tasks = [
     max: 15,
     diff: 0
   }, {
-    desc: 'stroke it with your hand and crush your balls',
+    desc: 'hold it just in front of your throat on the edge of gagging and crush your balls',
     min: 10,
     max: 30,
     diff: 0
@@ -508,34 +508,34 @@ Tasks = [
     max: 30,
     diff: 2
   }, {
-    desc: 'deepthroat slowly on it top to bottom',
-    min: 10,
+    desc: 'deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
+    min: 20,
     max: 30,
     diff: 2
   }, {
-    desc: 'go deep on it',
-    min: 3,
-    max: 10,
-    diff: 2
-  }, {
-    desc: 'slap your face',
+    desc: 'hold it in your throat',
     min: 5,
-    max: 15,
+    max: 20,
     diff: 2
   }, {
-    desc: 'gag on it',
-    min: 10,
-    max: 20,
+    desc: 'beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
+    min: 20,
+    max: 30,
+    diff: 2
+  }, {
+    desc: 'go deep, hold for 3,keep repeating ',
+    min: 20,
+    max: 40,
     diff: 3
   }, {
-    desc: 'fuck your throat',
+    desc: 'fuck your throat as fast as you can,' 
     min: 10,
     max: 30,
     diff: 3
   }, {
-    desc: 'keep it in your throat',
-    min: 3,
-    max: 10,
+    desc: 'you can do better than that. keep it in your throat until I say otherwise. I do not care how much you gag, Spank your balls as hard as you can if you fail', 
+    min: 25,
+    max: 40,
     diff: 3
   }
 ];
