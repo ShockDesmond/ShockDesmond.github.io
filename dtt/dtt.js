@@ -528,7 +528,7 @@ Tasks = [
     max: 40,
     diff: 3
   }, {
-    desc: 'fuck your throat as fast as you can,' 
+    desc: 'fuck your throat as fast as you can,', 
     min: 10,
     max: 30,
     diff: 3
