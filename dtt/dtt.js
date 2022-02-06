@@ -478,42 +478,67 @@ testFormatTime = function() {
 
 Tasks = [
   {
-    desc: 'lick it with your tongue and spank your balls',
-    min: 10,
+    desc: 'lick it all over. Get that cock nice and wet. ',
+    min: 15,
     max: 30,
     diff: 0
+  }, {
+    desc: 'lets see you slurp on it like a lollipop. Arent you lucky?', 
+    min: 10,
+    max: 15,
+    diff: 0,
   }, {
     desc: 'moan like a whore while you suck the tip',
-    min: 5,
+    min: 10,
     max: 15,
     diff: 0
   }, {
-    desc: 'hold it just in front of your throat on the edge of gagging and crush your balls',
-    min: 10,
+    desc: 'hold it just in front of your throat on the edge of gagging. Do not gag. Show some control.',
+    min: 15,
     max: 30,
     diff: 0
   }, {
-    desc: 'suck it sensuously with your mouth',
+    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled by that cock.', 
+    min: 15, 
+    max: 25, 
+    diff: 0
+  }, {
+    desc: 'suck it, Toy! Come on, I havent got all day. ',
+    min: 20,
+    max: 30,
+    diff: 1
+  },{
+    desc: 'suck it sensuously with your mouth, make that cock feel good. ',
     min: 10,
     max: 30,
     diff: 1
   }, {
-    desc: 'wipe the spit on your face',
-    min: 5,
+    desc: 'wipe the spit on your face. I have never seen such a pathetic effort. We will need to do something about that soon',
+    min: 10,
     max: 15,
     diff: 1
   }, {
-    desc: 'fuck your mouth',
+    desc: 'suck that cock. Show what a good blowjob you can give. ',
     min: 10,
     max: 30,
-    diff: 2
+    diff: 1
+  },{
+    desc: 'deepthroat hard and fast. All the way in and all the way out',
+    min: 20,
+    max: 30,
+    diff: 3
   }, {
     desc: 'deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
     min: 20,
     max: 30,
     diff: 2
   }, {
-    desc: 'hold it in your throat',
+    desc: 'Fuck your mouth fast',
+    min: 20,
+    max: 30,
+    diff: 2
+  },{
+    desc: 'hold it in your throat. Thats it,',
     min: 5,
     max: 20,
     diff: 2
@@ -521,15 +546,25 @@ Tasks = [
     desc: 'beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
     min: 20,
     max: 30,
-    diff: 2
+    diff: 1
   }, {
     desc: 'go deep, hold for 3,keep repeating ',
     min: 20,
     max: 40,
     diff: 3
   }, {
+    desc: 'Hold that cock in your mouth. time to remind you what you are. Crush your balls in both hands. I will know if you dont do it hard enough' ,
+    min: 20,
+    max: 30,
+    diff: 2
+  },{
     desc: 'fuck your throat as fast as you can,', 
     min: 10,
+    max: 30,
+    diff: 3
+  },{
+    desc: 'all the way in, all the way out. Faster. Come on Toy, you know how this works by now' ,
+    min: 20,
     max: 30,
     diff: 3
   }, {
@@ -537,7 +572,12 @@ Tasks = [
     min: 25,
     max: 40,
     diff: 3
-  }
+  },{
+    desc: 'Work your throat like a piston. I cant believe you signed up for this. ',
+    min: 20,
+    max: 30,
+    diff: 3
+  },
 ];
 
 generateTask = function(lastTask, target, elapsed) {
