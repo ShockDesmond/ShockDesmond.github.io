@@ -486,7 +486,7 @@ Tasks = [
     desc: 'lets see you slurp on it like a lollipop. Arent you lucky?', 
     min: 10,
     max: 15,
-    diff: 0,
+    diff: 0
   }, {
     desc: 'moan like a whore while you suck the tip',
     min: 10,
@@ -583,7 +583,7 @@ Tasks = [
 min: 20,
     max: 30,
     diff: 2
-  }, 
+  }
 ];
 
 generateTask = function(lastTask, target, elapsed) {
