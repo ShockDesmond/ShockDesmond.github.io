@@ -493,22 +493,22 @@ Tasks = [
     max: 15,
     diff: 0
   }, {
-    desc: 'hold it just in front of your throat on the edge of gagging. Do not gag. Show some control.',
+    desc: 'hold it just in front of your throat on the edge of gagging. ',
     min: 15,
     max: 30,
     diff: 1
   }, {
-    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled by that cock.', 
+    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled. ', 
     min: 15, 
     max: 25, 
     diff: 1
   }, {
-    desc: 'suck it Toy! Come on, I dont have all day. ',
+    desc: 'suck it like you mean it. ',
     min: 10,
     max: 20,
     diff: 1
   },{
-    desc: 'suck it sensuously with your mouth, make that cock feel good. ',
+    desc: 'suck it sensuously, make that cock feel good. ',
     min: 10,
     max: 25,
     diff: 1
@@ -518,12 +518,12 @@ Tasks = [
     max: 15,
     diff: 1
   }, {
-    desc: 'suck that cock. Show what a good blowjob you can give. ',
+    desc: 'suck it. Show what a good blowjob you can give. ',
     min: 10,
     max: 20,
     diff: 1
   },{
-    desc: 'deepthroat hard and fast. All the way in and all the way out. Again and again',
+    desc: 'deepthroat hard and fast. All the way in, and all the way out.',
     min: 10,
     max: 30,
     diff: 3
@@ -563,12 +563,17 @@ Tasks = [
     max: 25,
     diff: 3
   },{
-    desc: 'all the way in, all the way out. Faster. Come on Toy, you know how this works by now' ,
+    desc: 'take it deep and fuck your throat.',
+    min: 20,
+    max: 30,
+    diff: 2
+  },{
+    desc: 'all the way in, all the way out. Faster. ' ,
     min: 20,
     max: 30,
     diff: 3
   }, {
-    desc: 'you can do better than that. keep it in your throat until I say otherwise. I do not care how much you gag, Spank your balls as hard as you can if you fail', 
+    desc: ' keep it in your throat until I say otherwise. I do not care how much you gag. I like it', 
     min: 25,
     max: 40,
     diff: 3
