@@ -571,15 +571,15 @@ Tasks = [
     desc: 'you can do better than that. keep it in your throat until I say otherwise. I do not care how much you gag, Spank your balls as hard as you can if you fail', 
     min: 25,
     max: 40,
-    diff: 4
+    diff: 3
   },{
     desc: 'Work your throat like a piston. I cant believe you signed up for this. ',
     min: 20,
     max: 30,
-    diff: 4
+    diff: 3
   },{
-    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. I said harder. Speed up as well. 
-    ' ,
+    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. I said harder. Speed up as well.', 
+
     min: 20,
     max: 30,
     diff: 2
