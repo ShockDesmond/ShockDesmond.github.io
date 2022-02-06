@@ -661,7 +661,7 @@ Tasks = [
     desc: 'Grab the back of your head with both hands and force fuck your throat.',
     min: 15,
     max: 30,
-    diff: 3
+    diff: 4
   }
 ];
 
