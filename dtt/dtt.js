@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get ready. Once you start you have to finish. You chose this, you want this. Every time you fail to follow an instruction straight away, slap your balls as hard as you can. I want you to fail. I want to break you...');
+      return speak('Get ready. You chose this, you want this. Every time you fail to follow an instruction or hesitate, slap your balls five times. I want you to fail. I want to break you...');
     }
   },
   taskDesc: function(task) {
@@ -478,42 +478,42 @@ testFormatTime = function() {
 
 Tasks = [
   {
-    desc: 'lick it all over. Get that cock nice and wet. ',
+    desc: 'Lick it all over. Get that cock nice and wet.',
     min: 10, 
     max: 20,
     diff: 0
   }, {
-    desc: 'lets see you slurp on it like a lollipop. Arent you lucky?', 
+    desc: 'Lets see you slurp on it like a lollipop. Arent you lucky?', 
     min: 10,
     max: 15,
     diff: 0
   }, {
-    desc: 'moan like a whore while you suck the tip',
+    desc: 'Moan like a whore while you suck the tip',
     min: 10,
     max: 15,
     diff: 0
-  },{
-    desc: 'slobber all up and down that cock' ,
+  }, {
+    desc: 'Slobber all up and down that cock',
     min: 10,
     max: 25,
     diff: 0
   }, {
-    desc: 'pleasure it with your tongue',
+    desc: 'Pleasure it with your tongue',
     min: 10,
     max: 15,
     diff: 0
-  },{
-    desc: 'lick it',
+  }, {
+    desc: 'Lick it',
     min: 5,
     max: 15,
     diff: 0
   }, {
-    desc: 'hold it just in front of your throat on the edge of gagging. ',
+    desc: 'Hold it just in front of your throat on the edge of gagging.',
     min: 15,
     max: 30,
     diff: 1
   }, {
-    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled. ', 
+    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled.', 
     min: 15, 
     max: 25, 
     diff: 1
@@ -522,142 +522,146 @@ Tasks = [
     min: 5,
     max: 20,
     diff: 1
-  },{
-    desc: 'suck it like you mean it. ',
+  }, {
+    desc: 'Suck it like you mean it.',
     min: 10,
     max: 20,
     diff: 1
-  },{
-    desc: 'suck it sensuously, make that cock feel good. ',
+  }, {
+    desc: 'Suck it sensuously, make that cock feel good.',
     min: 10,
     max: 25,
     diff: 1
   }, {
-    desc: 'wipe the spit on your face.',
+    desc: 'Wipe the spit on your face.',
     min: 10,
     max: 15,
     diff: 1
   }, {
-    desc: 'smack your face with that cock',
-    min: 10,
-    max: 20,
-    diff: 1
-  },{
-    desc: 'suck it. Show what a good blowjob you can give. ',
-    min: 10,
-    max: 20,
-    diff: 1
-  },{
-    desc: 'quickly fuck your open mouth ',
-    min: 10,
-    max: 15,
-    diff: 1
-  },{
-    desc: 'deepthroat hard and fast. All the way in. all the way out.',
-    min: 10,
-    max: 30,
-    diff: 3
-  }, {
-    desc: 'deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
-    min: 10,
-    max: 30,
-    diff: 2
-  }, {
-    desc: 'deepthroat it nice and slow',
-    min: 10,
-    max: 30,
-    diff: 2
-  },  {
-    desc: 'shove it down your throat and hold.',
-    min: 10,
-    max: 30,
-    diff: 2
-  },  {
-    desc: 'deepthroat it.',
-    min: 5,
-    max: 20,
-    diff: 2
-  },  {
-    desc: 'Fuck your mouth fast',
-    min: 10,
-    max: 20,
-    diff: 2
-  },{
-    desc: 'hold it in your throat.',
-    min: 5,
-    max: 20,
-    diff: 2
-  },  {
-    desc: 'deepthroat while you slap your balls. ',
-    min: 10,
-    max: 15,
-    diff: 2
-  }, {
-    desc: 'beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
+    desc: 'Beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Come on, louder. I cant hear you toy.',
     min: 10,
     max: 18,
     diff: 1
   }, {
-    desc: 'go deep. hold for 3, up for 3. Repeat until I get bored',
-    min: 20,
-    max: 40,
-    diff: 3
+    desc: 'Smack your face with that cock',
+    min: 10,
+    max: 20,
+    diff: 1
   }, {
-    desc: 'Hold that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough' ,
+    desc: 'Suck it. Show what a good blowjob you can give.',
+    min: 10,
+    max: 20,
+    diff: 1
+  }, {
+    desc: 'Quickly fuck your open mouth',
     min: 10,
     max: 15,
-    diff: 2
-  },{
-    desc: 'fuck your throat as fast as you can,', 
-    min: 10,
-    max: 25,
-    diff: 3
+    diff: 1
   }, {
-    desc: 'go deep then fuck your throat with short strokes. Keep it in your throat ',
+    desc: 'Deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
     min: 10,
     max: 30,
-    diff: 3
-  }, {
-    desc: 'fuck that throat. Hurry up.',
-    min: 10,
-    max: 30,
-    diff: 3
-  },{
-    desc: 'all the way in, all the way out. Faster. ' ,
-    min: 20,
-    max: 30,
-    diff: 3
-  },  {
-    desc: 'hold until you gag. Release. Repeat .',
-    min: 20,
-    max: 60,
     diff: 2
   }, {
-    desc: ' keep it in your throat until I say otherwise. I do not care how much you gag. I like it', 
-    min: 25,
-    max: 40,
-    diff: 3
-  },{
-    desc: 'Work your throat like a piston. I cant believe you signed up for this. ',
-    min: 20,
+    desc: 'Deepthroat it nice and slow',
+    min: 10,
     max: 30,
-    diff: 3
-  },{
+    diff: 2
+  }, {
+    desc: 'Shove it down your throat and hold.',
+    min: 10,
+    max: 30,
+    diff: 2
+  }, {
+    desc: 'Deepthroat it.',
+    min: 5,
+    max: 20,
+    diff: 2
+  }, {
+    desc: 'Fuck your mouth fast',
+    min: 10,
+    max: 20,
+    diff: 2
+  }, {
+    desc: 'Hold it in your throat.',
+    min: 5,
+    max: 20,
+    diff: 2
+  }, {
     desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. Speed up as well.', 
-
-min: 20,
+    min: 20,
     max: 30,
     diff: 2
-  },{
-    desc: 'Congratulations, you get to keep going. Did you really think we were through already? ',
+  }, {
+    desc: 'Congratulations, you get to keep going. Did you really think we were through already?',
     min: 10,
     max: 15,
     diff: 2
-  },{
+  }, {
     desc: 'Ha. Same again.',
     min: 20,
     max: 30,
     diff: 2
+  }, {
+    desc: 'Deepthroat while you slap your balls.',
+    min: 10,
+    max: 15,
+    diff: 2
+  }, {
+    desc: 'Hold that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
+    min: 10,
+    max: 15,
+    diff: 2
+  }, {
+    desc: 'Hold until you gag. Release. Repeat.',
+    min: 20,
+    max: 60,
+    diff: 2
+  }, {
+    desc: 'Go deep. hold for 3, up for 3. Repeat until I get bored',
+    min: 20,
+    max: 40,
+    diff: 3
+  }, {
+    desc: 'Deepthroat hard and fast. All the way in. all the way out.',
+    min: 10,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'Fuck your throat as fast as you can,', 
+    min: 10,
+    max: 25,
+    diff: 3
+  }, {
+    desc: 'Go deep then fuck your throat with short strokes. Keep it in your throat',
+    min: 10,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'Fuck that throat. Hurry up.',
+    min: 10,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'All the way in, all the way out. Now do it faster.',
+    min: 20,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'Keep it in your throat until I say otherwise. I do not care if you gag. In fact, I like it', 
+    min: 25,
+    max: 40,
+    diff: 3
+  }, {
+    desc: 'Work your throat like a piston. I cant believe you asked for this.',
+    min: 20,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'Grab the back of your head with both hands and force fuck your throat.',
+    min: 15,
+    max: 30,
+    diff: 3
   }
 ];
 
