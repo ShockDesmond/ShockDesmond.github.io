@@ -560,17 +560,17 @@ Tasks = [
   }, {
     desc: 'Deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
     min: 10,
-    max: 30,
+    max: 20,
     diff: 2
   }, {
     desc: 'Deepthroat it nice and slow',
     min: 10,
-    max: 30,
+    max: 20,
     diff: 2
   }, {
     desc: 'Shove it down your throat and hold.',
     min: 10,
-    max: 30,
+    max: 15,
     diff: 2
   }, {
     desc: 'Deepthroat it.',
@@ -606,7 +606,7 @@ Tasks = [
     desc: 'Deepthroat while you slap your balls.',
     min: 10,
     max: 15,
-    diff: 2
+    diff: 3
   }, {
     desc: 'Keep that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
     min: 10,
@@ -616,7 +616,7 @@ Tasks = [
     desc: 'Hold it in your throat until you gag. Release. Repeat.',
     min: 20,
     max: 60,
-    diff: 2
+    diff: 3
   }, {
     desc: 'Go deep. hold for 3, up for 3. Repeat until I get bored',
     min: 20,
