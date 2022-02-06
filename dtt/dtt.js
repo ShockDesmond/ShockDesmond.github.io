@@ -643,18 +643,23 @@ Tasks = [
     max: 30,
     diff: 3
   }, {
-    desc: 'Sll the way in, all the way out. Faster.',
+    desc: 'All the way in, all the way out. Now do it faster.',
     min: 20,
     max: 30,
     diff: 3
   }, {
-    desc: 'Keep it in your throat until I say otherwise. I do not care how much you gag. I like it', 
+    desc: 'Keep it in your throat until I say otherwise. I do not care if you gag. In fact, I like it', 
     min: 25,
     max: 40,
     diff: 3
   }, {
     desc: 'Work your throat like a piston. I cant believe you asked for this.',
     min: 20,
+    max: 30,
+    diff: 3
+  }, {
+    desc: 'Grab the back of your head with both hands and force fuck your throat.',
+    min: 15,
     max: 30,
     diff: 3
   }
