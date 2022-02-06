@@ -10,7 +10,7 @@ Tasks = [
   {desc: 'slap your face',             min: 5,  max: 15, diff: 2},
   {desc: 'gag on it',                  min: 10, max: 20, diff: 3},
   {desc: 'fuck your throat',           min: 10, max: 30, diff: 3},
-  {desc: 'keep it in your throat',     min: 3,  max: 10, diff: 3},
+  {desc: 'keep it in your throat',     min: 10,  max: 20, diff: 3},
 ]
 
 generateTask = (lastTask, target, elapsed) ->
