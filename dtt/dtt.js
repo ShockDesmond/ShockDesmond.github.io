@@ -503,7 +503,7 @@ Tasks = [
     max: 25, 
     diff: 0
   }, {
-    desc: 'suck it, Toy! Come on, I havent got all day. ',
+    desc: 'suck it Toy! Come on, I dont have all day. ',
     min: 20,
     max: 30,
     diff: 1
@@ -548,7 +548,7 @@ Tasks = [
     max: 30,
     diff: 1
   }, {
-    desc: 'go deep, hold for 3,keep repeating ',
+    desc: 'go deep, hold for 3, up for 3. Repeat until I get bored',
     min: 20,
     max: 40,
     diff: 3
@@ -571,13 +571,19 @@ Tasks = [
     desc: 'you can do better than that. keep it in your throat until I say otherwise. I do not care how much you gag, Spank your balls as hard as you can if you fail', 
     min: 25,
     max: 40,
-    diff: 3
+    diff: 4
   },{
     desc: 'Work your throat like a piston. I cant believe you signed up for this. ',
     min: 20,
     max: 30,
-    diff: 3
-  },
+    diff: 4
+  },{
+    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. I said harder. Speed up as well. 
+    ' ,
+    min: 20,
+    max: 30,
+    diff: 2
+  }
 ];
 
 generateTask = function(lastTask, target, elapsed) {
