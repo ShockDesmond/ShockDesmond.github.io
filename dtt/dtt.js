@@ -478,22 +478,22 @@ testFormatTime = function() {
 
 Tasks = [
   {
-    desc: 'lick it with your tongue',
+    desc: 'lick it with your tongue and spank your balls',
     min: 10,
     max: 30,
     diff: 0
   }, {
-    desc: 'moan like a whore',
+    desc: 'moan like a whore while you suck the tip',
     min: 5,
     max: 15,
     diff: 0
   }, {
-    desc: 'stroke it with your hand',
+    desc: 'stroke it with your hand and crush your balls',
     min: 10,
     max: 30,
     diff: 0
   }, {
-    desc: 'suck it with your mouth',
+    desc: 'suck it sensuously with your mouth',
     min: 10,
     max: 30,
     diff: 1
@@ -503,12 +503,12 @@ Tasks = [
     max: 15,
     diff: 1
   }, {
-    desc: 'fuck your open mouth',
+    desc: 'fuck your mouth',
     min: 10,
     max: 30,
     diff: 2
   }, {
-    desc: 'deepthroat on it',
+    desc: 'deepthroat slowly on it top to bottom',
     min: 10,
     max: 30,
     diff: 2
