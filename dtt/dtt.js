@@ -580,10 +580,10 @@ Tasks = [
   },{
     desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. I said harder. Speed up as well.', 
 
-    min: 20,
+min: 20,
     max: 30,
     diff: 2
-  }
+  }, 
 ];
 
 generateTask = function(lastTask, target, elapsed) {
