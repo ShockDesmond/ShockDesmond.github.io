@@ -275,7 +275,7 @@ StartSelector = React.createClass({
   render: function() {
     return div({}, p({
       className: "lead"
-    },speak( 'The game is not started yet. You will need a cock to ruin your throat with and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Select training time and press Start.') ), form({
+    }, return speak( 'The game is not started yet. You will need a cock to ruin your throat with and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Select training time and press Start.') ), form({
       className: "form-inline",
       onSubmit: this.startGame
     }, div({
