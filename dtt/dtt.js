@@ -275,7 +275,7 @@ StartSelector = React.createClass({
   render: function() {
     return div({}, p({
       className: "lead"
-    }, 'The game is not started yet. Select training time and press Start.'), form({
+    }, 'The game is not started yet. You'll need a cock to ruin your throat with and something to tie your balls. You'll probably want a towel for all the drool you'll be making. And tears. Select training time and press Start.'), form({
       className: "form-inline",
       onSubmit: this.startGame
     }, div({
@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get ready. You chose this, you want this. Every time you fail to follow an instruction or hesitate, give your balls five hard slaps. I want you to fail. I want to break you...');
+      return speak('Get ready. You chose this, you want this. Make sure your balls are tied nice and tight. Every time you fail to follow an instruction or hesitate, give your balls five hard slaps. I want you to fail. I want to break you...');
     }
   },
   taskDesc: function(task) {
