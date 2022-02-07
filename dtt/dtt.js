@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get ready. You chose this, you want this. Every time you fail to follow an instruction or hesitate, slap your balls five times. I want you to fail. I want to break you...');
+      return speak('Get ready. You chose this, you want this. Every time you fail to follow an instruction or hesitate, give your balls five hard slaps. I want you to fail. I want to break you...');
     }
   },
   taskDesc: function(task) {
@@ -396,7 +396,7 @@ Game = React.createClass({
   renderFinished: function() {
     return div({
       className: 'jumbotron'
-    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! Now thank me for letting you fuck your throat and gag on this cock. ")), button({
+    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! To celebrate I want you to hold the cock in your throat while you give your balls twenty slaps. Do it fast. Remember it's five more slaps punishment every time that cock comes out of your throat. Then thank me for letting you fuck your throat and gag on this cock.")), button({
       className: "btn btn-success btn-lg ",
       style: {
         marginBottom: 20
@@ -478,7 +478,7 @@ testFormatTime = function() {
 
 Tasks = [
   {
-    desc: 'Lick it all over. Get that cock nice and wet.',
+    desc: 'Lick it all over. I want that cock nice and wet.',
     min: 10, 
     max: 20,
     diff: 0
@@ -513,7 +513,7 @@ Tasks = [
     max: 30,
     diff: 1
   }, {
-    desc: 'Bob your head on the top half of that cock. Dont use your throat this time, just enjoy the feeling of your mouth being filled.', 
+    desc: 'Bob your head on the top half of that cock. Dont use your throat. just enjoy the feeling of your mouth being filled.', 
     min: 15, 
     max: 25, 
     diff: 1
@@ -533,7 +533,7 @@ Tasks = [
     max: 25,
     diff: 1
   }, {
-    desc: 'Smear all that drool on your face.',
+    desc: 'Smear that spit all over your face.',
     min: 10,
     max: 15,
     diff: 1
@@ -543,27 +543,27 @@ Tasks = [
     max: 15,
     diff: 1
   }, {
-    desc: 'Beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked... Louder.',
+    desc: 'Beg to have this cock in your throat. Convince me that you want to be thoroughly throatfucked...',
     min: 10,
     max: 18,
     diff: 1
   }, {
-    desc: 'Smack your face with that cock',
+    desc: 'Smack your face while you suck it',
     min: 10,
     max: 20,
     diff: 1
   }, {
-    desc: 'Suck it. Show what a good blowjob you can give.',
+    desc: 'Show what a good blowjob you can give.',
     min: 10,
     max: 20,
     diff: 1
   }, {
-    desc: 'Quickly fuck your open mouth',
+    desc: 'Quickly fuck your mouth',
     min: 10,
     max: 15,
     diff: 1
   }, {
-    desc: 'Deepthroat slowly from tip to base. In and out, in and out. Show what a good little cock sucker you are.',
+    desc: 'Deepthroat slowly from tip to base. In, and out, in and out. Show what a good little cock sucker you are.',
     min: 10,
     max: 20,
     diff: 2
@@ -593,7 +593,7 @@ Tasks = [
     max: 20,
     diff: 2
   }, {
-    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Harder. Speed up as well.', 
+    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Speed up as well.', 
     min: 20,
     max: 30,
     diff: 2
@@ -618,7 +618,7 @@ Tasks = [
     max: 15,
     diff: 2
   }, {
-    desc: 'Hold it in your throat until you gag. Release. Repeat.',
+    desc: 'Hold it in your throat until you gag. Release. One big breath. Repeat.',
     min: 20,
     max: 60,
     diff: 3
@@ -653,12 +653,12 @@ Tasks = [
     max: 30,
     diff: 3
   }, {
-    desc: 'Keep it in your throat until I say otherwise. I do not care if you gag. In fact, I like it', 
+    desc: 'Keep it in your throat until I say otherwise. I do not care if you gag. In fact, I like it. If you fail this one, its fifteen spanks on your balls. Plus the usual five.', 
     min: 25,
     max: 40,
     diff: 3
   }, {
-    desc: 'Work your throat like a piston. I cant believe you asked for this.',
+    desc: 'Work your throat like a piston.',
     min: 20,
     max: 30,
     diff: 3
