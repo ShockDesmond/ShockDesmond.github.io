@@ -533,12 +533,12 @@ Tasks = [
     max: 25,
     diff: 1
   }, {
-    desc: 'Smear that spit all over your face.',
+    desc: 'Smear spit all over your face.',
     min: 10,
     max: 15,
     diff: 1
   }, {
-    desc: 'Wipe the spit on your face.',
+    desc: 'Wipe spit on your face.',
     min: 10,
     max: 15,
     diff: 1
@@ -603,7 +603,7 @@ Tasks = [
     max: 15,
     diff: 2
   }, {
-    desc: 'Ha. Same again.',
+    desc: 'Haha. Same again.',
     min: 20,
     max: 30,
     diff: 2
