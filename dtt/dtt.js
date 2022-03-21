@@ -633,7 +633,7 @@ Tasks = [
     max: 30,
     diff: 3
   }, {
-    desc: 'Fuck your throat as fast as you can,', 
+    desc: 'Fuck your throat as fast as you can. What. A. Slut! ', 
     min: 10,
     max: 25,
     diff: 3
@@ -656,12 +656,12 @@ Tasks = [
     desc: 'Keep it in your throat until I say otherwise. I do not care if you gag. In fact, I like it. If you fail this one, its fifteen spanks on your balls. Plus the usual five.', 
     min: 25,
     max: 40,
-    diff: 3
+    diff: 4
   }, {
     desc: 'Work your throat like a piston.',
     min: 20,
     max: 30,
-    diff: 3
+    diff: 4
   }, {
     desc: 'Grab the back of your head with both hands and force fuck your throat.',
     min: 15,
