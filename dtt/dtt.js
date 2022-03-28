@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get ready. You chose this, you want this. Make sure your balls are tied nice and tight. I will give you instructions and you will do them until I give you new ones. Every time you hesitate or fail a task, give your balls five hard slaps. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you...');
+      return speak('Get that cock ready. Lick it all over. Smear it with your spit. The wetter you get it, the easier you'll find things later. Remember. You chose this, you want this. Make sure your balls are tied nice and tight. I will give you instructions and you will do them until I give you new ones. Every time you hesitate or fail a task, give your balls five slaps as hard as you can. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you...');
     }
   },
   taskDesc: function(task) {
