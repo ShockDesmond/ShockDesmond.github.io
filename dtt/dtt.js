@@ -275,7 +275,7 @@ StartSelector = React.createClass({
   render: function() {
     return div({}, p({
       className: "lead"
-    }, 'The game is not started yet. You will need a cock to ruin your throat and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Tie your balls tight. Select training time and click the button at the bottom when you're ready.'), form({
+    }, 'The game is not started yet. You will need a cock to ruin your throat and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Tie your balls tight. Select training time and click the button at the bottom when you are ready.'), form({
       className: "form-inline",
       onSubmit: this.startGame
     }, div({
@@ -598,7 +598,7 @@ Tasks = [
     max: 30,
     diff: 2
   }, {
-    desc: 'Congratulations, you get to keep going. Did you really think we were through already?',
+    desc: 'Keep going. Did you really think we were through already?',
     min: 10,
     max: 15,
     diff: 2
@@ -613,7 +613,7 @@ Tasks = [
     max: 15,
     diff: 3
   }, {
-    desc: 'Keep that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
+    desc: 'Hold that cock in your mouth. Crush your balls in both hands. I will know if you dont do it hard enough',
     min: 10,
     max: 15,
     diff: 2
