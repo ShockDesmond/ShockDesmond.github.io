@@ -275,7 +275,7 @@ StartSelector = React.createClass({
   render: function() {
     return div({}, p({
       className: "lead"
-    }, 'The game is not started yet. You will need a cock to ruin your throat with and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Select training time and press Start.'), form({
+    }, 'The game is not started yet. You will need a cock to ruin your throat and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Tie your balls tight. Select training time and click the button at the bottom when you're ready.'), form({
       className: "form-inline",
       onSubmit: this.startGame
     }, div({
@@ -322,7 +322,7 @@ StartSelector = React.createClass({
       type: "submit",
       className: "btn btn-primary btn-lg",
       disabled: this.props.error
-    }, 'Start training')));
+    }, 'This toy is ready to be trained')));
   }
 });
 
@@ -342,7 +342,7 @@ Game = React.createClass({
       type: "submit",
       className: "btn btn-primary btn-lg center-block",
       onClick: this.startCountdown
-    }, 'Click here when ready') : void 0);
+    }, 'I am ready to have my throat fucked.') : void 0);
   },
   countDownText: function() {
     var cntdown;
@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get that cock ready. Lick it all over. Smear it with your spit. The wetter you get it, the easier you will find things later. Remember. You chose this, you want this. Make sure your balls are tied nice and tight. I will give you instructions and you will do them until I give you new ones. Every time you hesitate or fail a task, give your balls five slaps as hard as you can. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you...');
+      return speak('Get that cock ready. Lick it all over. Smear it with your spit. The wetter you get it, the easier you will find things later. Remember. You chose this, you want this. Make sure your balls are tied nice and tight. I will give you instructions and you will do them until I give you new ones. Every time you hesitate or fail a task, give your balls five slaps as hard as you can. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you. Answer me loud and clear. Are you ready to have your mouth and throat thoroughly abused');
     }
   },
   taskDesc: function(task) {
