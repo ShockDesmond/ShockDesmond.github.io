@@ -503,7 +503,7 @@ Tasks = [
     max: 15,
     diff: 0
   }, {
-    desc: 'Lick it',
+    desc: 'Lick it from base to tip',
     min: 5,
     max: 15,
     diff: 0
@@ -518,12 +518,12 @@ Tasks = [
     max: 25, 
     diff: 1
   }, {
-    desc: 'Suck it',
+    desc: 'Suck it. Let it deep into your mouth',
     min: 5,
     max: 20,
     diff: 1
   }, {
-    desc: 'Suck it like you mean it.',
+    desc: 'Work it like you mean it. Fast strokes in and out. ',
     min: 10,
     max: 20,
     diff: 1
@@ -534,11 +534,6 @@ Tasks = [
     diff: 1
   }, {
     desc: 'Smear spit all over your face.',
-    min: 10,
-    max: 15,
-    diff: 1
-  }, {
-    desc: 'Wipe spit on your face.',
     min: 10,
     max: 15,
     diff: 1
