@@ -275,7 +275,7 @@ StartSelector = React.createClass({
   render: function() {
     return div({}, p({
       className: "lead"
-    }, 'The game is not started yet. You will need a cock to ruin your throat and something to tie your balls. You might also want a towel for all the drool you will be making. And the pathetic tears. Tie your balls tight. Select training time and click the button at the bottom when you are ready.'), form({
+    }, 'The game is not started yet. Tie your balls tight and get a cock to ruin your throat. You might also want a towel for all the drool you will be making. And the pathetic tears. Select training time and click the button at the bottom when you are ready.'), form({
       className: "form-inline",
       onSubmit: this.startGame
     }, div({
@@ -402,7 +402,7 @@ Game = React.createClass({
         marginBottom: 20
       },
       onClick: this.startAnother
-    }, 'Start another training'));
+    }, 'This toy deserves more training'));
   },
   renderProgress: function() {
     var tasks;
