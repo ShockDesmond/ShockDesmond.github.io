@@ -498,7 +498,7 @@ Tasks = [
     max: 25,
     diff: 0
   }, {
-    desc: 'Beg me to treat you how you deserve.',
+    desc: 'Beg me to treat you how you deserve. Like a fuck hole',
     min: 10,
     max: 15,
     diff: 0
@@ -543,7 +543,7 @@ Tasks = [
     max: 18,
     diff: 1
   }, {
-    desc: 'Smack your face while you suck it',
+    desc: 'Slap your face while you suck it',
     min: 10,
     max: 20,
     diff: 1
@@ -588,7 +588,7 @@ Tasks = [
     max: 20,
     diff: 2
   }, {
-    desc: 'Spank your balls. Make sure you dont let that cock out of your mouth. Speed up as well.', 
+    desc: 'Spank your balls repeatedly. Make sure you dont let that cock out of your mouth. Speed up as well.', 
     min: 20,
     max: 30,
     diff: 2
@@ -598,7 +598,7 @@ Tasks = [
     max: 15,
     diff: 2
   }, {
-    desc: 'Haha. Same again.',
+    desc: 'Same again. No rest for the pathetic.',
     min: 20,
     max: 30,
     diff: 2
