@@ -528,7 +528,7 @@ Tasks = [
     max: 20,
     diff: 1
   }, {
-    desc: 'Suck it sensuously, make that cock feel good.',
+    desc: 'Suck it sensuously, make that cock feel good. Work the shaft with both hands.',
     min: 10,
     max: 25,
     diff: 1
@@ -558,7 +558,7 @@ Tasks = [
     max: 15,
     diff: 1
   }, {
-    desc: 'Deepthroat slowly from tip to base. In, and out, in, and out. Show what a good little cock sucker you are.',
+    desc: 'Deepthroat from tip to base. In, and out, in, and out. Show what a good little cock sucker you are.',
     min: 10,
     max: 20,
     diff: 2
@@ -659,6 +659,11 @@ Tasks = [
     diff: 4
   }, {
     desc: 'Grab the back of your head with both hands and force fuck your throat.',
+    min: 15,
+    max: 30,
+    diff: 4
+  }, {
+    desc: 'Gag on it.',
     min: 15,
     max: 30,
     diff: 4
