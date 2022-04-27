@@ -498,7 +498,7 @@ Tasks = [
     max: 25,
     diff: 0
   }, {
-    desc: 'Pleasure it with your tongue',
+    desc: 'Beg me to treat you how you deserve.',
     min: 10,
     max: 15,
     diff: 0
@@ -523,7 +523,7 @@ Tasks = [
     max: 20,
     diff: 1
   }, {
-    desc: 'Work it like you mean it. Fast strokes in and out. ',
+    desc: 'Work it like you mean it. Fast strokes in and out of your mouth.',
     min: 10,
     max: 20,
     diff: 1
@@ -533,7 +533,7 @@ Tasks = [
     max: 25,
     diff: 1
   }, {
-    desc: 'Smear spit all over your face.',
+    desc: 'Smear spit all over your face. I want you to look like a real slut',
     min: 10,
     max: 15,
     diff: 1
@@ -558,12 +558,12 @@ Tasks = [
     max: 15,
     diff: 1
   }, {
-    desc: 'Deepthroat slowly from tip to base. In, and out, in and out. Show what a good little cock sucker you are.',
+    desc: 'Deepthroat slowly from tip to base. In, and out, in, and out. Show what a good little cock sucker you are.',
     min: 10,
     max: 20,
     diff: 2
   }, {
-    desc: 'Deepthroat it nice and slow',
+    desc: 'Deepthroat it nice and slow.',
     min: 10,
     max: 20,
     diff: 2
@@ -573,7 +573,7 @@ Tasks = [
     max: 15,
     diff: 2
   }, {
-    desc: 'Deepthroat it.',
+    desc: 'Deepthroat it like a prize whore.',
     min: 5,
     max: 20,
     diff: 2
@@ -603,7 +603,7 @@ Tasks = [
     max: 30,
     diff: 2
   }, {
-    desc: 'Deepthroat while you slap your balls.',
+    desc: 'Deepthroat while you slap your balls again and again.',
     min: 10,
     max: 15,
     diff: 3
