@@ -322,7 +322,7 @@ StartSelector = React.createClass({
       type: "submit",
       className: "btn btn-primary btn-lg",
       disabled: this.props.error
-    }, 'This toy is ready to be trained')));
+    }, 'This throat toy is ready to be trained')));
   }
 });
 
@@ -351,7 +351,7 @@ Game = React.createClass({
       speak(3 === cntdown ? "Ready in " + cntdown : "" + cntdown);
       return "Ready in " + cntdown + "...";
     } else {
-      return speak('Get that cock ready. Lick it all over. Smear it with your spit. The wetter you get it, the easier you will find things later. Remember. You chose this, you want this. Make sure your balls are tied nice and tight. I will give you instructions and you will do them until I give you new ones. Every time you hesitate or fail a task, give your balls five slaps as hard as you can. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you. Answer me loud and clear. Are you ready to have your mouth and throat thoroughly abused');
+      return speak('Get that cock ready. Lick it all over. Smear it with your spit. The wetter you get it, the easier you will find things later. Remember. You chose this, you want this. I will give you instructions and you will repeat them until I give you new ones. Every time you hesitate or fail a task, give your balls five slaps as hard as you can. If you fail to start a task do ten slaps. If you give up then do fifty slaps plus one for every ten seconds remaining from the target time. Know that I want you to fail. I want to break you. Answer me loud and clear. Are you ready to have your mouth and throat thoroughly abused');
     }
   },
   taskDesc: function(task) {
@@ -396,13 +396,13 @@ Game = React.createClass({
   renderFinished: function() {
     return div({
       className: 'jumbotron'
-    }, p({}, speak("Congratulations! You completed " + (formatTime(this.props.elapsed)) + " of training! To celebrate I want you to hold the cock in your throat while you give your balls twenty slaps. Do it fast. Remember it's five more slaps punishment every time that cock comes out of your throat. Then thank me for letting you fuck your throat and gag on this cock.")), button({
+    }, p({}, speak("Times up slut! You completed " + (formatTime(this.props.elapsed)) + " of training! To celebrate I want you to hold the cock in your throat while you give your balls twenty slaps. Do it fast. Remember it's five more slaps punishment every time that cock comes out of your throat. Then thank me for letting you fuck your throat and gag on this cock.")), button({
       className: "btn btn-success btn-lg ",
       style: {
         marginBottom: 20
       },
       onClick: this.startAnother
-    }, 'This toy deserves more training'));
+    }, 'This slut throat needs more training'));
   },
   renderProgress: function() {
     var tasks;
@@ -543,7 +543,7 @@ Tasks = [
     max: 18,
     diff: 1
   }, {
-    desc: 'Slap your face while you suck it',
+    desc: 'Slap your face while you suck that cock',
     min: 10,
     max: 20,
     diff: 1
